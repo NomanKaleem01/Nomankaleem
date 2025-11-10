@@ -1,80 +1,144 @@
-# 👋 Hi, I'm Noman Kaleem
+# 👋 Hi, I'm **Noman Kaleem**
 
-📍 **Lahore, Pakistan**  
-📞 **Phone:** 0304-5413509  
-📧 **Email:** [nomanmughal82002@gmail.com](mailto:nomanmughal82002@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/noman-kaleem-a76399321](https://linkedin.com/in/noman-kaleem-a76399321)  
-💻 **GitHub:** [github.com/NomanKaleem01](https://github.com/NomanKaleem01)  
-🏠 **Address:** Jahangir Park, New Shadbagh, Lahore, Pakistan  
-
----
-
-## 🎯 Objective  
-A dedicated and adaptable individual with a passion for problem-solving and a keen interest in technology.  
-Excited to leverage technical expertise and contribute effectively in a dynamic work environment.
+🎯 *Mobile App Developer | Full Stack Developer | AI & RAG Engineer*  
+📍 Lahore, Pakistan  
+📧 [nomanmughal82002@gmail.com](mailto:nomanmughal82002@gmail.com) | 📞 0304-5413509  
+🔗 [LinkedIn](https://linkedin.com/in/noman-kaleem-a76399321) | [GitHub](https://github.com/NomanKaleem01)  
+🏠 Jahangir Park, New Shadbagh, Lahore, Pakistan  
 
 ---
 
-## 🎓 Education  
-**🎓 Bachelor of Science in Software Engineering**  
-**University of Central Punjab (UCP), Lahore, Pakistan**  
-🗓 *Mar 2021 – Feb 2025*  
-📈 **CGPA:** 3.50  
+## 💼 **Professional Summary**
+
+I'm a passionate **Software Engineer** specializing in **mobile app development**, **AI-based systems**, and **scalable backend solutions**.  
+With expertise in **React Native**, **Flutter**, and **Node.js**, I build fast, modern, and cross-platform applications that deliver great user experiences.  
+
+💡 I enjoy turning complex ideas into simple, beautiful, and functional digital products.  
+Currently, I’m expanding my skills in **AI integrations**, **LangChain**, and **cloud deployment** using **Docker** and **Vercel**.
 
 ---
 
-## 🚀 Projects  
+## 🎓 **Education**
 
-### 👓 Eyewear Virtual Try-On App with AI Recommendation *(Final Year Project)*  
-**Technologies:** Flutter, TensorFlow (CNN), Gemini API, ARCore/ARKit  
-- Developed a Flutter app enabling users to virtually try on eyewear using Augmented Reality (AR).  
-- Implemented a CNN-based AI model for personalized eyewear recommendations.  
-- Integrated **Gemini API** for AI-driven text-based suggestions.  
-- Focused on real-time AR and seamless UI/UX experience.  
+🎓 **Bachelor of Science in Software Engineering**  
+**University of Central Punjab (UCP)**, Lahore, Pakistan  
+🗓 *Mar 2021 – Feb 2025* | 📈 CGPA: **3.50**
 
 ---
 
-### 🚗 BidCaribbean – Online Car Auction Platform  
-**Technologies:** Node.js, Express.js, PostgreSQL, Redis, Docker, React  
-- Built a real-time car auction platform with live bidding and dynamic price updates.  
-- Designed scalable backend APIs using **Node.js** and **Express.js**.  
-- Integrated caching with **Redis** and optimized app performance.  
-- Created responsive and intuitive front-end components using React.  
+## 🚀 **Major Projects**
+
+### 👓 **Eyewear Virtual Try-On App with AI Recommendation** *(Final Year Project)*  
+**Tech Stack:** Flutter, TensorFlow (CNN), Gemini API, ARCore/ARKit  
+- Built a virtual try-on eyewear app using **Augmented Reality (AR)**.  
+- Integrated **AI model (CNN)** to recommend eyewear styles based on facial features.  
+- Used **Gemini API** for AI-driven conversational recommendations.  
+- Designed intuitive **UI/UX** with real-time AR previews.
 
 ---
 
-### 🤖 RAG-based DSA Question Answering System  
-**Technologies:** Node.js, Express.js, LangChain, Gemini API, VectorDB  
-- Implemented **Retrieval-Augmented Generation (RAG)** pipeline to answer DSA-related queries.  
-- Integrated **LangChain** and **Gemini API** for context-aware responses.  
-- Used **Vector Database** for efficient semantic search and document retrieval.  
-- Developed backend APIs to manage query processing and response generation.  
+### 🚗 **BidCaribbean – Online Car Auction Platform**  
+**Tech Stack:** Node.js, Express.js, PostgreSQL, Redis, Docker, React  
+- Developed a real-time car bidding platform with **live price updates**.  
+- Integrated **Redis caching** for high-speed performance and scalability.  
+- Built containerized microservices using **Docker**.  
+- Designed interactive frontend in React with real-time socket updates.
 
 ---
 
-## 🧠 Skills  
-
-**🧩 Mobile App Development:** Flutter, Expo, Firebase  
-**🎨 Front-End Development:** HTML, CSS, Bootstrap, JavaScript, React, Bubble.io  
-**⚙️ Backend & APIs:** Express.js, Node.js, MongoDB, PostgreSQL, VectorDB, JWT Auth, Redis, Apache Kafka, RESTful APIs  
-**🤖 AI & Machine Learning:** RAG (Retrieval-Augmented Generation), Gemini API, LangChain  
-**☁️ DevOps & Infrastructure:** Docker, Vercel, Netlify  
-**💬 Soft Skills:** Team Player, Problem-Solving, Attention to Detail, Empathy  
+### 🤖 **RAG-based DSA Question Answering System**  
+**Tech Stack:** Node.js, Express.js, LangChain, Gemini API, VectorDB  
+- Implemented **Retrieval-Augmented Generation (RAG)** for AI-based document Q&A.  
+- Used **Vector Database** for semantic search & document embeddings.  
+- Integrated **LangChain + Gemini API** to generate context-aware answers.  
+- Created backend APIs for file upload, embedding, and chat response generation.
 
 ---
 
-## 🕹 Hobbies & Interests  
-- 🌍 **Traveling:** Love exploring new places, cultures, and experiences.  
-- 🎮 **Gaming:** Enjoy strategy and sports games in free time.  
-- 💡 **Tech Enthusiast:** Curious about new trends in mobile and web development.  
+### 💬 **Realtime Chat App**  
+**Tech Stack:** React Native, Firebase, Expo, Node.js  
+- Created a modern chat app with **real-time messaging and push notifications**.  
+- Implemented **Firebase Authentication** and **Firestore**.  
+- Added **dark mode**, typing indicator, and message read receipts.
 
 ---
 
-## 📫 Connect with Me  
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/NomanKaleem01)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/noman-kaleem-a76399321)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:nomanmughal82002@gmail.com)
+### 🏪 **WearGalaxy – Eyewear E-commerce App**  
+**Tech Stack:** React Native, Expo, Firebase, Redux  
+- Designed a complete e-commerce app with product categories, AR module, and AI suggestions.  
+- Built **wishlist**, **cart**, and **recently viewed** features.  
+- Used **Expo Router** for seamless navigation and custom tab layout.
 
 ---
 
-⭐ **“Code. Learn. Improve. Repeat.”**
+### 🧠 **AI Resume Analyzer**  
+**Tech Stack:** Node.js, LangChain, Gemini API, React  
+- AI-powered tool to analyze resumes and provide improvement suggestions.  
+- Used **RAG architecture** for context-based scoring.  
+- Frontend built in **React** with sleek UI for instant feedback.
+
+---
+
+## 🧰 **Technical Skills**
+
+### 🧩 **Languages & Frameworks**
+- **C++**, **JavaScript (ES6+)**, **TypeScript**, **Java**, **Python**, **PHP**
+- **React Native**, **Flutter**, **React**, **Node.js**, **Express.js**
+
+### 🗄 **Databases & APIs**
+- **Firebase**, **PostgreSQL**, **MongoDB**, **VectorDB**, **MySQL**  
+- **RESTful APIs**, **GraphQL**, **JWT Authentication**, **WebSockets**
+
+### 🤖 **AI & Machine Learning**
+- **TensorFlow**, **LangChain**, **Gemini API**, **OpenAI API**, **RAG Pipelines**  
+- **CNNs**, **Image Recognition**, **Prompt Engineering**
+
+### ⚙️ **DevOps & Infrastructure**
+- **Docker**, **Vercel**, **Netlify**, **GitHub Actions**, **Redis**, **Apache Kafka**  
+
+### 🎨 **Frontend Tools**
+- **HTML**, **CSS**, **Bootstrap**, **Tailwind CSS**, **Expo**, **Figma**, **Photoshop**
+
+### 🧠 **Other Tools**
+- **Git/GitHub**, **Postman**, **VS Code**, **UML Modeling**, **Agile (Scrum)**  
+
+### 💬 **Soft Skills**
+- Problem Solving • Team Collaboration • Adaptability • Attention to Detail • Communication
+
+---
+
+## 🏆 **Achievements & Certifications**
+- 🥇 **Top 5 in Final Year Project Competition** – UCP Lahore  
+- 📜 **React Native Advanced Course** – Udemy (2024)  
+- 📜 **Docker for Developers** – Coursera (2023)  
+- 📜 **Introduction to AI using Python** – Google AI (2024)  
+
+---
+
+## ❤️ **Volunteer Work**
+- Participated in **Ramzan Iftar Distribution** & **Ration Packing** drives.  
+- Volunteered in **Campus Tech Events** as mentor and developer.
+
+---
+
+## 🕹 **Hobbies & Interests**
+- 🌍 Traveling – exploring cultures and cities  
+- 🎮 Gaming – strategy & sports games  
+- 💡 Tech Exploration – new frameworks, AI tools, and open-source projects  
+
+---
+
+## 📈 **GitHub Analytics**
+![Noman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NomanKaleem01&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NomanKaleem01&layout=compact&theme=radical)
+
+---
+
+## 📫 **Connect With Me**
+[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&style=for-the-badge)](https://github.com/NomanKaleem01)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/noman-kaleem-a76399321)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge)](mailto:nomanmughal82002@gmail.com)
+
+---
+
+⭐ *"Striving to build apps that solve real problems and make an impact."*
