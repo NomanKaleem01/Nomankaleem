@@ -63,14 +63,6 @@ Currently, I’m expanding my skills in **AI integrations**, **LangChain**, and 
 
 ---
 
-### 🏪 **WearGalaxy – Eyewear E-commerce App**  
-**Tech Stack:** React Native, Expo, Firebase, Redux  
-- Designed a complete e-commerce app with product categories, AR module, and AI suggestions.  
-- Built **wishlist**, **cart**, and **recently viewed** features.  
-- Used **Expo Router** for seamless navigation and custom tab layout.
-
----
-
 ### 🧠 **AI Resume Analyzer**  
 **Tech Stack:** Node.js, LangChain, Gemini API, React  
 - AI-powered tool to analyze resumes and provide improvement suggestions.  
@@ -125,12 +117,6 @@ Currently, I’m expanding my skills in **AI integrations**, **LangChain**, and 
 - 🌍 Traveling – exploring cultures and cities  
 - 🎮 Gaming – strategy & sports games  
 - 💡 Tech Exploration – new frameworks, AI tools, and open-source projects  
-
----
-
-## 📈 **GitHub Analytics**
-![Noman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NomanKaleem01&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NomanKaleem01&layout=compact&theme=radical)
 
 ---
 
