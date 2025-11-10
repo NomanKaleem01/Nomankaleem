@@ -1,60 +1,80 @@
 # 👋 Hi, I'm Noman Kaleem
 
-### 💻 Mobile App Developer | React Native | Firebase | Full-Stack Enthusiast  
-📍 Lahore, Pakistan  
-📧 Email: [nomanmughal82002@gmail.com](mailto:nomanmughal82002@gmail.com)  
-📞 Phone: +92 304 5413509  
+📍 **Lahore, Pakistan**  
+📞 **Phone:** 0304-5413509  
+📧 **Email:** [nomanmughal82002@gmail.com](mailto:nomanmughal82002@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/noman-kaleem-a76399321](https://linkedin.com/in/noman-kaleem-a76399321)  
+💻 **GitHub:** [github.com/NomanKaleem01](https://github.com/NomanKaleem01)  
+🏠 **Address:** Jahangir Park, New Shadbagh, Lahore, Pakistan  
 
 ---
 
-## 🚀 About Me
-I'm a passionate **Mobile App Developer** with strong experience in building cross-platform applications using **React Native** and **Firebase**.  
-I enjoy creating user-friendly and visually appealing apps with smooth performance.
-
-- 🎓 **Bachelor of Software Engineering** – University of Central Punjab, Lahore (CGPA: 3.50)  
-- 🌐 Languages: English, Urdu, Punjabi  
-- 🧠 Strong foundation in full-stack development  
-- 🔭 Currently focusing on **React Native & Expo** projects  
+## 🎯 Objective  
+A dedicated and adaptable individual with a passion for problem-solving and a keen interest in technology.  
+Excited to leverage technical expertise and contribute effectively in a dynamic work environment.
 
 ---
 
-## 🛠️ Skills
-- **Languages:** C++, JavaScript, PHP, HTML, CSS, Java  
-- **Frameworks:** React Native, Expo, Node.js  
-- **Databases:** Firebase, MySQL  
-- **Tools:** Git, Photoshop, VS Code, UML Modeling  
+## 🎓 Education  
+**🎓 Bachelor of Science in Software Engineering**  
+**University of Central Punjab (UCP), Lahore, Pakistan**  
+🗓 *Mar 2021 – Feb 2025*  
+📈 **CGPA:** 3.50  
 
 ---
 
-## 📱 Featured Projects
+## 🚀 Projects  
 
-### 🧑‍🎓 Student Management System
-A web-based system to manage students’ data, attendance, and performance efficiently.
-
-### 🚗 Car Rental System
-A full-stack web app for booking and managing car rentals.
-
-### 👓 WearGalaxy App *(React Native)*
-A cross-platform mobile app for browsing and purchasing eyeglasses with **AR module** and **AI recommendations**.
+### 👓 Eyewear Virtual Try-On App with AI Recommendation *(Final Year Project)*  
+**Technologies:** Flutter, TensorFlow (CNN), Gemini API, ARCore/ARKit  
+- Developed a Flutter app enabling users to virtually try on eyewear using Augmented Reality (AR).  
+- Implemented a CNN-based AI model for personalized eyewear recommendations.  
+- Integrated **Gemini API** for AI-driven text-based suggestions.  
+- Focused on real-time AR and seamless UI/UX experience.  
 
 ---
 
-## 🏆 Experience
-- 🧑‍🏫 **Computer Teacher** (Ideal Academy Lahore)  
-  Taught Computer Science to Grades 11 & 12.  
+### 🚗 BidCaribbean – Online Car Auction Platform  
+**Technologies:** Node.js, Express.js, PostgreSQL, Redis, Docker, React  
+- Built a real-time car auction platform with live bidding and dynamic price updates.  
+- Designed scalable backend APIs using **Node.js** and **Express.js**.  
+- Integrated caching with **Redis** and optimized app performance.  
+- Created responsive and intuitive front-end components using React.  
 
 ---
 
-## ❤️ Volunteer Work
-- Participated in **Ramzan Iftar Distribution** and **Ration Packing** activities.
+### 🤖 RAG-based DSA Question Answering System  
+**Technologies:** Node.js, Express.js, LangChain, Gemini API, VectorDB  
+- Implemented **Retrieval-Augmented Generation (RAG)** pipeline to answer DSA-related queries.  
+- Integrated **LangChain** and **Gemini API** for context-aware responses.  
+- Used **Vector Database** for efficient semantic search and document retrieval.  
+- Developed backend APIs to manage query processing and response generation.  
 
 ---
 
-## 📫 Connect With Me
-[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&style=for-the-badge)](https://github.com/nomankaleem)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/your-link)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge)](mailto:nomanmughal82002@gmail.com)
+## 🧠 Skills  
+
+**🧩 Mobile App Development:** Flutter, Expo, Firebase  
+**🎨 Front-End Development:** HTML, CSS, Bootstrap, JavaScript, React, Bubble.io  
+**⚙️ Backend & APIs:** Express.js, Node.js, MongoDB, PostgreSQL, VectorDB, JWT Auth, Redis, Apache Kafka, RESTful APIs  
+**🤖 AI & Machine Learning:** RAG (Retrieval-Augmented Generation), Gemini API, LangChain  
+**☁️ DevOps & Infrastructure:** Docker, Vercel, Netlify  
+**💬 Soft Skills:** Team Player, Problem-Solving, Attention to Detail, Empathy  
 
 ---
 
-⭐ **Fun Fact:** I love building clean UIs and learning new technologies every day.
+## 🕹 Hobbies & Interests  
+- 🌍 **Traveling:** Love exploring new places, cultures, and experiences.  
+- 🎮 **Gaming:** Enjoy strategy and sports games in free time.  
+- 💡 **Tech Enthusiast:** Curious about new trends in mobile and web development.  
+
+---
+
+## 📫 Connect with Me  
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/NomanKaleem01)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/noman-kaleem-a76399321)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:nomanmughal82002@gmail.com)
+
+---
+
+⭐ **“Code. Learn. Improve. Repeat.”**
